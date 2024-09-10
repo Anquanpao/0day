@@ -19,13 +19,6 @@
 9. Reapoc -- 标准化Poc & 漏洞环境收集盒 [https://github.com/cckuailong/reapoc](https://github.com/cckuailong/reapoc)
 
 
-> **_优秀项目收录_**  
-> 如果需要在本项目中展示自己的github 项目，请在[README.md](https://github.com/helloexp/0day/edit/master/README.md) 添加项目地址，更新上面列表，然后提交PR即可（open pull request）
-
-
-## 为什么发起这个项目？
-1. 几个月前，我参加了一场AWD攻防比赛，发现提前收集POC 对比赛很有好处，而且在收集这些 `payload` 的过程中，也能学到许多东西.
-2. 后续的HW、CTF、或日常的渗透等活动可以快速定位、利用漏洞.
 ## 问题反馈 
 在使用中有任何问题，欢迎反馈给我，可以直接发起 PR或issue.
 ## POC、EXP 贡献
